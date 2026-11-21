@@ -1,0 +1,8 @@
+## Interface: 120100, 120105, 16001, 50504, 38001, 20506, 11509
+## Title: NewCharDefaults
+## Notes: Applies my standard UI setup (action bars, Edit Mode layout, chat tabs and filters) the first time a character logs in. /ncd to re-apply.
+## Author: cuwaters
+## Version: 1.0.0
+## SavedVariablesPerCharacter: NewCharDefaultsDB
+
+NewCharDefaults.lua
